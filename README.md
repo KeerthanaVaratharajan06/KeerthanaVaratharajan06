@@ -8,16 +8,20 @@
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 🙋 About Me
 
-## 👩‍💻 About Me
+<table>
+<tr>
+<td width="62%" valign="top">
+
+I'm a final-year **B.Tech AI & Data Science** student who loves turning messy manual processes into clean, automated systems. My comfort zone is the intersection of **AI agents and workflow automation** — building things with n8n, the OpenAI API, and FastAPI that actually run in production, not just in a notebook.
 
 ```python
 class Keerthana:
     def __init__(self):
         self.name = "V. Keerthana"
         self.location = "Trichy, Tamil Nadu, India"
-        self.degree = "B.Tech - Artificial Intelligence & Data Science"
+        self.degree = "B.Tech - AI & Data Science"
         self.college = "Indra Ganesan College of Engineering"
         self.cgpa = 8.54
 
@@ -35,14 +39,19 @@ class Keerthana:
         self.fun_fact = "I once ran an n8n workshop for 30+ juniors!"
 
     def motto(self) -> str:
-        return "Automate the ordinary, engineer the extraordinary 🚀"
+        return "Automate the ordinary, engineer the extraordinary"
 
 
 me = Keerthana()
 print(me.motto())
 ```
 
-<br clear="right"/>
+</td>
+<td width="38%" valign="top">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
