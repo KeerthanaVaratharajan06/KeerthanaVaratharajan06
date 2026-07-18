@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=V.%20Keerthana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Automation%20Engineer%20%7C%20n8n%20%7C%20OpenAI%20%7C%20FastAPI&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=V.%20Keerthana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20and%20Automation%20Engineer%20%7C%20n8n%20%7C%20OpenAI%20%7C%20FastAPI&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Engineer;Building+AI+Agents+with+n8n+%7C+OpenAI+%7C+FastAPI;Turning+Ideas+into+Production-Ready+Automations;Award-Winning+Innovator+%7C+Final+Year+B.Tech+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+and+Data+Science+Engineer;Building+AI+Agents+with+n8n+%7C+OpenAI+%7C+FastAPI;Turning+Ideas+into+Production-Ready+Automations;Award-Winning+Innovator+%7C+Final+Year+B.Tech+Student" alt="Typing SVG" />
 
 </div>
 
